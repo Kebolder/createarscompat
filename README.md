@@ -5,6 +5,10 @@ Adds Create mechanical arm compatibility for the Arcane Pedestal.
 The Create Mechanical Arm can deposit items onto and extract items from the
 Ars Nouveau Arcane Pedestal, like any other Create inventory.
 
+## Currently supports
+
+- Mechanical Arm can target an Arcane Pedestal
+
 ## Requirements
 
 - Minecraft 1.21.1 (NeoForge)
