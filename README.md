@@ -8,6 +8,7 @@ Ars Nouveau Arcane Pedestal, like any other Create inventory.
 ## Currently supports
 
 - Mechanical Arm can target an Arcane Pedestal
+- Mechanical Arm can target an Arcane Platform
 
 ## Requirements
 
