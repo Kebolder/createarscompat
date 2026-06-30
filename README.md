@@ -1,9 +1,6 @@
 # Create Ars Compat
 
-Adds Create mechanical arm compatibility for the Arcane Pedestal.
-
-The Create Mechanical Arm can deposit items onto and extract items from the
-Ars Nouveau Arcane Pedestal, like any other Create inventory.
+Some small Create x Ars Nouveau compatibility additions
 
 ## Currently supports
 
